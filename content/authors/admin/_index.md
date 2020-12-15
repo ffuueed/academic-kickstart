@@ -22,8 +22,8 @@ bio: Just a classic rock fan trying to get to the right tail of the gaussian cur
 
 interests:
 - Artificial Intelligence
--  
 - Computational Fluid Dynamics
+- Computaional Sciences
 
 education:
   courses:
