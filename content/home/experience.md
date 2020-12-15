@@ -18,4 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[experience]]
+  title = "Masters Project"
+  company = "IIT - Bombay"
+  company_url = ""
+  location = "Mumbai"
+  date_start = "2020-04-04"
+  date_end = ""
+  description = """Modelling of silicon single crystal growth using OpenFoam as the primary modelling software."""
+
+[[experience]]
+  title = "Data Analyst Intern"
+  company = "ISB"
+  company_url = ""
+  location = "Hydrabad"
+  date_start = "2019-12-01"
+  date_end = "2020-1-5"
+  description = """
+  Responsibilities include:
+  
+  * Data Extraction
+  * Data Cleaning
+  * Analysis
+  """
+  
+
 +++
