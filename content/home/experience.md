@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Hydrabad"
   date_start = "2019-12-01"
-  date_end = "2020-1-5"
+  date_end = "2020-01-05"
   description = """
   Responsibilities include:
   
