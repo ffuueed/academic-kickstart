@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-A young jedi without the force on his side to aid him to get to the right tail of the gaussian curve. A voracious reader with a wide array of interests , from statistics and machine learning to classic rock.
+A young jedi without the force on his side to aid him on his journey to the right end of the gaussian curve. A voracious reader with a wide array of interests , from statistics and machine learning to classic rock.
