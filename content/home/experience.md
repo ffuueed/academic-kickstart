@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Mumbai"
   date_start = "2020-04-04"
   date_end = ""
-  description = """Modelling of silicon single crystal growth using OpenFoam as the primary modelling software"""
+  description = """Modelling of silicon single crystal growth using OpenFoam as the primary modelling software."""
 
 [[experience]]
   title = "Data Analyst Intern"
@@ -41,13 +41,5 @@ date_format = "Jan 2006"
   * Analysis
   """
   
-[[experience]]
-  title = ""
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
