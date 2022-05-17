@@ -27,6 +27,7 @@ date_format = "Jan 2006"
   date_start = "2020-10-01"
   date_end = ""
   description = ""
+  
 [[item]]
   organization = "Udemy"
   organization_url = "https://www.udemy.com/"
@@ -36,6 +37,7 @@ date_format = "Jan 2006"
   date_start = "2021-10-06"
   date_end = ""
   description = ""
+
 [[item]]
   organization = "CFA"
   organization_url = ""
@@ -44,5 +46,6 @@ date_format = "Jan 2006"
   certificate_url = "https://basno.com/sk0yj3iu"
   date_start = "2022-01-01"
   date_end = ""
-  description = "Qualified CFA Level 2 with a above 90 percentile in Equity and Fixed Income along with derivatives and Quantative Methods"
+  description = ""
+  
 +++
