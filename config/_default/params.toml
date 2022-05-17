@@ -94,7 +94,7 @@ phone = "9414049702"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "Instagram", icon_pack = "fab", name = "DM Me", link = "https://www.instagram.com/notallasiansaresmart/"},
+  {icon = "instagram", icon_pack = "fab", name = "DM Me", link = "https://www.instagram.com/notallasiansaresmart/"},
   ]
 
 ############################
