@@ -25,6 +25,15 @@ date_format = "Jan 2006"
   location = "Mumbai"
   date_start = "2020-04-04"
   date_end = ""
+  description = """Currently working as a part of the ERM team to analyse enterprise level risk"""
+  
+[[experience]]
+  title = "Masters Project"
+  company = "IIT - Bombay"
+  company_url = ""
+  location = "Mumbai"
+  date_start = "2020-04-04"
+  date_end = "2021-04-04"
   description = """Modelling of silicon single crystal growth using OpenFoam as the primary modelling software."""
 
 [[experience]]
