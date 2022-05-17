@@ -22,14 +22,14 @@ bio: Just a classic rock fan trying to get to the right tail of the gaussian cur
 
 interests:
 - Artificial Intelligence
-- Computational Fluid Dynamics
-- Computaional Sciences
+- Computational Neuroscience
+- Computational Sciences
 
 education:
   courses:
   - course: BTech in Metallurgical Engineering with a specialization in Process Engineering
     institution: IIT - Bombay
-    year: 2021*
+    year: 2021
 
 
 # Social/Academic Networking
