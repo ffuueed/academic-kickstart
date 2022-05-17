@@ -24,9 +24,25 @@ date_format = "Jan 2006"
   title = "Machine Learning A-Z™: Hands-On Python & R In Data Science"
   url = ""
   certificate_url = "https://www.udemy.com/certificate/UC-936f4256-44ca-46f0-858b-88b4beeb2f96/"
-  date_start = "2018-10-01"
+  date_start = "2020-10-01"
   date_end = ""
   description = ""
-
-
+[[item]]
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com/"
+  title = " Artificial Intelligence A-Z™: Learn How To Build An AI"
+  url = ""
+  certificate_url = "https://www.udemy.com/certificate/UC-5a11520b-06f8-41bf-9f59-0c277263f537/"
+  date_start = "2021-10-06"
+  date_end = ""
+  description = ""
+[[item]]
+  organization = "CFA"
+  organization_url = ""
+  title = "CFA level 2"
+  url = ""
+  certificate_url = "https://basno.com/sk0yj3iu"
+  date_start = "2022-01-01"
+  date_end = ""
+  description = "Qualified CFA Level 2 with a above 90 percentile in Equity and Fixed Income along with derivatives and Quantative Methods"
 +++
